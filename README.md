@@ -1,2 +1,26 @@
-# MVC-LECTURE
-An introduction to the Model View Controller
+# MVC: Model View Controller
+An introduction to MVC.
+
+## What is MVC?
+
+MVC (Model-View-Controller) is a software design pattern used to separate an application into three interconnected components:
+
+- Model: Manages data.
+- View: Displays UI.
+- Controller: Handles input(server-side logic).
+
+## Why do we use MVC?
+
+We use MVC to:
+
+- Organize code.
+- Separate concerns.
+- Improve scalability.
+- Facilitate maintenance.
+
+## What does it look like?
+
+![MVC Map](/mvc.png)
+
+## Conclusion
+MVC is a proven design pattern that organizes code, separates concerns, and enhances scalability and maintainability in software development.
