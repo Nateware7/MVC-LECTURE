@@ -12,7 +12,6 @@ MVC (Model-View-Controller) is a software design pattern used to separate an app
 ## Why do we use MVC?
 
 We use MVC to:
-
 - Organize code.
 - Separate concerns.
 - Improve scalability.
