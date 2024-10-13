@@ -22,4 +22,4 @@ We use MVC to:
 ![MVC Map](/mvc.png)
 
 ## Conclusion
-MVC is a proven design pattern that organizes code, separates concerns, and enhances scalability and maintainability in software development.
+MVC is a proven design pattern for organizing code, separating concerns, and enhancing scalability and maintainability in software development.
