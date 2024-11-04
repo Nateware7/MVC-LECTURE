@@ -21,5 +21,5 @@ We use MVC to:
 
 ![MVC Map](/mvc.png)
 
-## Conclusion
+## Conclusion 
 MVC is a proven design pattern for organizing code, separating concerns, and enhancing scalability and maintainability in software development.
