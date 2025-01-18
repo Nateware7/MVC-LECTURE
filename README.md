@@ -1,5 +1,5 @@
 # MVC: Model View Controller
-An introduction to MVC
+Introduction to MVC
 
 ## What is MVC?
 
